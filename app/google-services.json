@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368455814572",
+    "project_id": "sistemalogin-f8b27",
+    "storage_bucket": "sistemalogin-f8b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368455814572:android:27ba08a253410b7cac7e09",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368455814572-5ck7v9os3mj5p8dq1skfghneipuld1gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCts9NKN_607Kq1DnyFep781vWjLR1OWXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368455814572-5ck7v9os3mj5p8dq1skfghneipuld1gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

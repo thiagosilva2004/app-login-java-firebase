@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projeto firebase</string>
+    <string name="entrar">Entrar</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="text_cadastrar">Criar uma conta</string>
+    <string name="Cadastrese">Cadastre-se</string>
+    <string name="nome">Nome</string>
+</resources>
